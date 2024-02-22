@@ -2,3 +2,4 @@ fdk
 requests
 oci
 oci-cli
+cryptography>=42.0.4 # not directly required, pinned by Snyk to avoid a vulnerability
