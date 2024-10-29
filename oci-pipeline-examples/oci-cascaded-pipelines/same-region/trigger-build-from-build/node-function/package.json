@@ -5,7 +5,7 @@
 	"main": "func.js",
 	"author": "",
 	"dependencies": {
-		"@fnproject/fdk": ">=0.0.34",
+		"@fnproject/fdk": ">=0.0.72",
 		"oci-common": "^2.21.0",
 		"oci-devops": "^2.21.0"
 	}
